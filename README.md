@@ -39,8 +39,8 @@ new Chart({
 ```
 
 ## Example
-![BarFunnel Example Image]
-(https://github.com/chartjs/Chart.BarFunnel.js/blob/master/barfunnel.png)
+
+![BarFunnel Example Image](https://github.com/chartjs/Chart.BarFunnel.js/blob/master/barfunnel.png)
 
 ## License
 
